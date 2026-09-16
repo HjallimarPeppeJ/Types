@@ -1,0 +1,20 @@
+{
+  "name": "com.hf.types",
+  "version": "0.0.1",
+  "displayName": "Types",
+  "description": "TBA",
+  "unity": "6000.6",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+ },
+ "keywords": [
+    "development"
+  ],
+  "author": {
+    "name": "HjallimarFelix",
+    "url": "https://github.com/orgs/HjallimarPeppeJ/"
+  }
+}
