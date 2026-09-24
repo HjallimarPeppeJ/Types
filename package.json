@@ -1,6 +1,6 @@
 {
   "name": "com.hf.types",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Types",
   "description": "TBA",
   "unity": "6000.6",
@@ -14,7 +14,7 @@
     "development"
   ],
   "author": {
-    "name": "HjallimarFelix",
+    "name": "HjallimarPeppeJ",
     "url": "https://github.com/orgs/HjallimarPeppeJ/"
   }
 }
